@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class largestSum {
+public class LargestSum {
 
     // Main method - Entry point of the program
     public static void main(String[] args) {
